@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{BBE4096B-C464-4FFC-ABBB-B5F309D39ACB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Migrations/20210319181733_InitialCreate.cs">
+    <Files>
+      <File FileName="Controllers/MoviesController.cs" Line="1" Column="1" />
+      <File FileName="Data/MvcMovieContext.cs" />
+      <File FileName="Migrations/20210319201448_Rating.cs" />
+      <File FileName="Migrations/MvcMovieContextModelSnapshot.cs" />
+      <File FileName="Migrations/20210319181733_InitialCreate.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MVC" expanded="True">
+            <Node name="MVC" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True">
+                <Node name="20210319181733_InitialCreate.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MVC PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
